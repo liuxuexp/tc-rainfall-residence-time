@@ -1,0 +1,32 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# regenerated at runtime (not redistributed)
+figure_data/
+data/tc_prec_yearly/
+data/era5_event_composite*.nc
+data/CHM_PRE_V2/*
+!data/CHM_PRE_V2/README.md
+!data/CHM_PRE_V2/download-url.txt
+data/CMABSTdata/*
+!data/CMABSTdata/README.md
+!data/CMABSTdata/download-url.txt
+data/Data-NCAR/*
+!data/Data-NCAR/README.md
+!data/Data-NCAR/download-url.txt
+data/ERA5/*
+!data/ERA5/README.md
+!data/ERA5/download-url.txt
+data/IMERG/*
+!data/IMERG/README.md
+!data/IMERG/download-url.txt
+data/IBTrACS/*
+!data/IBTrACS/README.md
+!data/IBTrACS/download-url.txt
+
+# outputs
+figures/*
+!figures/.gitkeep
+report/
+to_human/

@@ -1,0 +1,8 @@
+numpy
+pandas
+xarray
+scipy
+matplotlib>=3.5
+cartopy>=0.20
+netCDF4
+shapely
